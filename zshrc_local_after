@@ -1,0 +1,10 @@
+##################################
+# mac-specific zsh configuration #
+##################################
+
+# color
+alias ls="ls -G"
+
+# keybindings
+bindkey "^[^[[D" backward-word
+bindkey "^[^[[C" forward-word

@@ -1,0 +1,6 @@
+##################################
+# mac-specific zsh configuration #
+##################################
+
+# zplug directory
+export ZPLUG_HOME=/usr/local/opt/zplug
