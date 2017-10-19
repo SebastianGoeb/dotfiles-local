@@ -1,0 +1,11 @@
+##################################
+# BSD-specific zsh configuration #
+##################################
+
+# color
+alias ls="ls -G"
+
+# keybindings
+# Note: not sure if these only work because I'm SSHing in from a mac
+bindkey "^[^[[D" backward-word
+bindkey "^[^[[C" forward-word
