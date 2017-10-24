@@ -2,6 +2,9 @@
 # BSD-specific zsh configuration #
 ##################################
 
+# language
+export LANG="en_GB.UTF-8"
+
 # color
 alias ls="ls -G"
 
